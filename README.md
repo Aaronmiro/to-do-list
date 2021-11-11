@@ -8,7 +8,7 @@
 - Mark a to-do as completed
 - Delete a to-do
 
-#### Introduction of the To-Do List
+#### Description of the To-Do List
 
 - Backend: based on Spring Boot and Spring Data JPA
 - Database: MySQL
