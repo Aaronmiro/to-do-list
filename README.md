@@ -19,7 +19,7 @@
 
 ### Screenshot
 
-<img src="/Users/aaron/Desktop/Screen Shot 2021-11-11 at 10.35.17 AM.png" alt="Screen Shot 2021-11-11 at 10.35.17 AM" style="zoom:60%;" />
+<img src="Screen Shot of todolist.png" style="zoom:60%;" />
 
 
 
